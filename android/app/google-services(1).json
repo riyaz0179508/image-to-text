@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266672199276",
+    "project_id": "scan-59710",
+    "storage_bucket": "scan-59710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266672199276:android:edaacaccf2f5cb592c6a49",
+        "android_client_info": {
+          "package_name": "com.example.challenge_1_scan_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266672199276-1k5bv15tp5o731o3ocg5abqmeghtfi6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXio1rLdIkSR5CK9n4_TUIg2gM-3INq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266672199276-1k5bv15tp5o731o3ocg5abqmeghtfi6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
